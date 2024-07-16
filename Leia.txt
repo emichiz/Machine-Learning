@@ -1,0 +1,11 @@
+Modelo de Machine Learning para predição de possíveis memecoins que foram lançadas entre 20 e 30 minutos e possuem estatisticamente chances de aumentarem
+o seu valor de mercado na próxima hora. 
+
+1 - O arquivo dex10.py representa processo de captura de dados da Web e armazenando no servidor local SQL.
+
+
+2- O notebookcrypto10.ypinb encontra-se os estudos da base e testes de modelos e possíveis ganhos. 
+
+3- O cryptotreinamento.py possui o processo de criação e salvamento do modelo de machine learnin.
+
+4 -  O dexprojeto possui  a estrutura de captura de dados e alertas  de cryptos em alta nos primeiros minutos.
